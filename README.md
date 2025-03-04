@@ -4,8 +4,8 @@ Welcome to **Downtown**, a modern and user-friendly food delivery app designed t
 
 ## 🎨 Design & Prototype  
 
-- **Figma Design:** [(https://www.figma.com/design/VIaSHAxU8zgivNg7e0lb6j/Food-Ordering-app?node-id=0-1&t=WV2eadnvm7e8mujW-1)]  
-- **Prototype:** [(https://www.figma.com/proto/VIaSHAxU8zgivNg7e0lb6j/Food-Ordering-app?node-id=1-18&p=f&t=6WE3AfIdikoZSSLA-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1)]  
+- **Figma Design:** "https://www.figma.com/design/VIaSHAxU8zgivNg7e0lb6j/Food-Ordering-app"
+- **Prototype:** "https://www.figma.com/proto/VIaSHAxU8zgivNg7e0lb6j/Food-Ordering-app"  
 
 ## 📌 Features  
 
