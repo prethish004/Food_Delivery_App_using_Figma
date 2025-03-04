@@ -17,11 +17,6 @@ Welcome to **Downtown**, a modern and user-friendly food delivery app designed t
 
 ## 🖼️ UI Screenshots  
 
-Add images of the app design below:  
-
-![Screenshot 1](path-to-image-1)  
-![Screenshot 2](path-to-image-2)  
-
----
-
-📌 **Stay tuned for updates!** 🚀  
+![image](https://github.com/user-attachments/assets/264c4dbf-f141-48e9-8e64-049d206d85a9)
+![image](https://github.com/user-attachments/assets/04e3db15-e016-4baf-ae24-782148c432e6)
+![image](https://github.com/user-attachments/assets/7dbe31c0-6c29-4609-bd40-f20624cce708)
